@@ -1,6 +1,8 @@
 # 🌍 Planet Facts Site
 An interactive and visually stunning website that provides fascinating facts about the planets in our solar system. The site features animated backgrounds, 3D planet hover and drag effects, and a responsive layout for all screen sizes.
 
+[Live Demo](https://arshitayal.github.io/Planets-Fact-Site/)
+
 ## 🚀 Features
 
 🪐 3D Interactive Planets that rotate on mouse hover and mouse drag
